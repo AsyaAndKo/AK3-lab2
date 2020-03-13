@@ -1,9 +1,9 @@
 .global lab1
 .syntax unified
 
-#define A #8
-#define B #5
-#define C #3
+#define A #4
+#define B #3
+#define C #2
 
 lab1:
 
